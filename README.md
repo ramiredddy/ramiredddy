@@ -18,11 +18,10 @@ I'm a passionate developer focused on building innovative solutions and learning
 
 ## 📫 How to Reach Me
 - GitHub: [@ramiredddy](https://github.com/ramiredddy)
-- LinkedIn: [Connect with me](https://linkedin.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ramireddy786)
 
 ## ⚡ Fun Fact
 I love solving complex problems and contributing to open-source projects!
 
 ---
-
 💡 *Feel free to explore my repositories and don't hesitate to reach out for collaboration!*
