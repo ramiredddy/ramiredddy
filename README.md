@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Rami Reddy! 👋
 
-<!--
-**ramiredddy/ramiredddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer focused on building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiredddy&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Cloud Technologies
+- Machine Learning
+- Web Development Best Practices
+
+## 📫 How to Reach Me
+- GitHub: [@ramiredddy](https://github.com/ramiredddy)
+- LinkedIn: [Connect with me](https://linkedin.com)
+
+## ⚡ Fun Fact
+I love solving complex problems and contributing to open-source projects!
+
+---
+
+💡 *Feel free to explore my repositories and don't hesitate to reach out for collaboration!*
