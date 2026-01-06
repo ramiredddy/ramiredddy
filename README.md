@@ -123,8 +123,7 @@ I'm a passionate **DevOps Engineer** and **Software Developer** focused on build
 ![Visitors](https://komarev.com/ghpvc/?username=ramiredddy&color=00D9FF&style=flat-square)
 
 ### 🔥 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ramiredddy&layout=pie&theme=radical&hide_border=true)](https://github.com/ramiredddy)</div>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiredddy&layout=pie&theme=radical" />
 ---
 
 <div align="center">
