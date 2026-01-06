@@ -133,6 +133,77 @@ I'm a passionate **DevOps Engineer** and **Software Developer** focused on build
 <div align="center">
   
   ⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaboration!** ⭐
+
+  ---
+
+## 🎯 Competitive Programming - LeetCode
+
+<div align="center">
+
+### LeetCode Statistics
+
+![LeetCode](https://img.shields.io/badge/LeetCode-254_Problems_Solved-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Rating](https://img.shields.io/badge/Contest%20Rating-1415-FFD700?style=for-the-badge)
+![Global Ranking](https://img.shields.io/badge/Global%20Ranking-625,995%2F809,188-00D4FF?style=for-the-badge)
+![Acceptance Rate](https://img.shields.io/badge/Acceptance%20Rate-65.97%25-00AA00?style=for-the-badge)
+
+</div>
+
+### 📊 Problem Breakdown
+
+- **Easy**: 67/921 ✅
+- **Medium**: 146/1982 🟡
+- **Hard**: 41/899 🔴
+
+### 💻 Languages & Proficiency
+
+- **Python3**: 234 problems solved (92% of submissions)
+- **Python**: 9 problems solved
+- **C++**: 5 problems solved
+
+### 🚀 Algorithm Mastery
+
+**Advanced Topics** (44 skills mastered):
+- Dynamic Programming: 44 problems ⭐
+- Backtracking: 18 problems
+- Divide and Conquer: 9 problems
+
+**Intermediate Topics** (Proficient):
+- Math: 61 problems
+- Hash Table: 50 problems
+- Recursion: 37 problems
+
+**Fundamental Topics** (Strong):
+- Array: 121 problems
+- String: 65 problems
+- Two Pointers: 29 problems
+
+### 🏆 Key Achievements
+
+✅ **254+ Problems Solved** - Consistent daily practice (77.73% beat rate)  
+✅ **Contest Rating: 1,415** - Strong competitive programming performance  
+✅ **412 Submissions in 2025** - Dedicated daily problem-solving commitment  
+✅ **63 Active Days** with 19-day max streak - Exceptional consistency  
+✅ **50 Days Badge 2025** - Most recent achievement - demonstrates sustained effort  
+✅ **Top Performer** - Beat 77.73% of all LeetCode users  
+
+### 📈 Performance Metrics
+
+| Metric | Value |
+|--------|-------|
+| Problems Solved | 254/3,802 |
+| Acceptance Rate | 65.97% |
+| Solutions Beat | 83.18% (Runtime) / 90.42% (Memory) |
+| Active Streak | 19 days |
+| Total Active Days | 63 |
+| Submissions (Past Year) | 412 |
+
+### 🎓 Profile Link
+
+[![LeetCode Profile](https://img.shields.io/badge/View%20Full%20Profile-LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gramireddy786/)
+
+**Competitive Programming Focus**: My LeetCode profile demonstrates strong algorithmic thinking, problem-solving ability, and consistency—critical skills for technical interviews at FAANG companies and advanced engineering roles.
+
   
   *Last updated: January 2026*
 </div>
